@@ -1,0 +1,13 @@
+[33mcommit b68e404e77c177c4cbc6f218be1acc00c81d398b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jose Carlos <jcarlosfpasir@gmail.com>
+Date:   Mon Jan 29 16:51:55 2024 +0100
+
+    Revert "comentario"
+    
+    This reverts commit 6947cee9aadfb661f99dfe56ed21f124e9283ff0.
+
+[33mcommit 6947cee9aadfb661f99dfe56ed21f124e9283ff0[m
+Author: Jose Carlos <jcarlosfpasir@gmail.com>
+Date:   Mon Jan 29 16:50:54 2024 +0100
+
+    comentario
